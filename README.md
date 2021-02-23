@@ -9,7 +9,7 @@ GUI Designed to illustrate the Hick Hyman’s Law :
 
 ➔ There are a total 10 such instructions to be executed sequentially.
 
-## Command to run the program : python3 hick_law.py
+#### Command to run the program : python3 hick_law.py
 
 A table with execution times along with a plot of the same is displayed to the user after completion
 of the experiment.
